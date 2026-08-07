@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Ciao~
-My name is TAN Zusheng, Allen. I hold an M.Sc. degree in Information Systems from the Department of Computer Science at Baptist University, Hong Kong, which I completed in 2019. Currently, I am pursuing my Ph.D. at the [***School of Data Science at Lingnan University, Hong Kong***](https://www.ln.edu.hk/sds), where I am deeply engaged in research that spans several fascinating areas.
+My name is TAN Zusheng, Allen. I obtained an M.Sc. degree in Information Systems from the Department of Computer Science at Hong Kong Baptist University in 2019, and subsequently received my Ph.D. from [***School of Data Science at Lingnan University, Hong Kong***](https://www.ln.edu.hk/sds) in 2025.
 
 I have been working in the research field including Information Systems (IS) and Federated Learning (FL) before. Currently, I am working with [***Prof. Billy Chiu***](https://billy322.github.io/) on projects involving NLP, with a particular focus on *Multimodal Summarization with Multimodal Output (MSMO)*. I am dedicated to advancing this field through my research, aiming to develop more sophisticated and efficient summarization techniques.
 
